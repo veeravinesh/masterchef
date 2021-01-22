@@ -1,1 +1,1 @@
-# masterchef
+# recipe for maggi
