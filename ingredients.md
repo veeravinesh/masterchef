@@ -1,2 +1,4 @@
-1. maggi packet
-2. vegetables
+ingredients | quantity
+------------|----------
+maggi packet | 2
+vegetables | 250g
